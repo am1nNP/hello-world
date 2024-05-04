@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 it is now on github
 
 pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.
+pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.
